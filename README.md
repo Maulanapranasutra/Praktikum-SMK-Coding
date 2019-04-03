@@ -1,0 +1,9 @@
+# Praktikum-SMK-Coding
+![alt text](https://github.com/Maulanapranasutra/Praktikum-SMK-Coding/blob/master/1.png)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-SMK-Coding/blob/master/2.png)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-SMK-Coding/blob/master/3A.png)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-SMK-Coding/blob/master/3B.png)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-SMK-Coding/blob/master/4A.png)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-SMK-Coding/blob/master/4B.png)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-SMK-Coding/blob/master/5A.png)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-SMK-Coding/blob/master/5B.png)
